@@ -1,4 +1,4 @@
-<input pattern="(hola|hello) *">
+<input pattern="(hola|hi) *">
   <output value="Hi! What is your favorite color?"/>
 
   <context>
