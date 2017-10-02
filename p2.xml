@@ -12,6 +12,10 @@
     </context>
   </input>
   <input pattern ="soy canche">
-  <output value="hola perra!"/>
+   <output>
+    <item>Hi!</item>
+    <item>Hello!</item>
+    <item>Good morning $UserName!</item>
+  </output>
   </input>  
 </context>
