@@ -1,3 +1,4 @@
+<context>
 <input pattern="(hola|hi) *">
   <output value="Hi! What is your favorite color?"/>
 
@@ -12,3 +13,4 @@
     </input>
   </context>
 </input>
+</context>
