@@ -2,4 +2,7 @@
   <input pattern="(hi|hello) *">
     <output value="Hi!"/>
   </input>
+  <input pattern ="soy canche">
+  <output value="hola perra!"/>
+  </input>  
 </context>
